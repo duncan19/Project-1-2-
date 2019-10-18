@@ -1,3 +1,22 @@
 .listofwork{
   border: 5px solid black;
 }
+body{
+  background-color: lightgrey;
+}
+@media screen and (min-width: 768px) and (max-width: 2000px){
+        body {
+
+         background-color: red;
+         animation-name: example;
+         animation-duration: 10s;
+          animation-iteration-count: 900000;
+        }
+        @keyframes example {
+          0%   {background-color: red;}
+          25%  {background-color: yellow;}
+          50%  {background-color: blue;}
+          75% {background-color: green;}
+          100% {background-color: red;}
+        }
+      }
