@@ -1,9 +1,12 @@
 .listofwork{
+margin-left: 10%;
   border: 5px solid black;
 }
 body{
-  background-color: lightgrey;
+  margin-left: 10%;
 }
+
+
 @media screen and (max-width: 768px){
         body {
 
