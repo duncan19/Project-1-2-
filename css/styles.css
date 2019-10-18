@@ -9,8 +9,10 @@ img{
 }
 .body{
   margin-left: 3%;
+  font-family: sans-serif;
   background-color: grey;
 }
+
 
 
 @media screen and (max-width: 768px){
