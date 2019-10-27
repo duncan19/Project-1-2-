@@ -28,7 +28,8 @@ _Contact me at duncanrobbins19@gmail.com if you have any questions of concerns_
 ## Technologies Used
 
 _HTML CSS Bootstrap and GH-pages_
-
+## GH-Pages link
+_https://duncan19.github.io/Project-1-2-/_
 ### License
 
 *open licensing*
